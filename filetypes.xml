@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="hogan" type="Handlebars/Mustache" />
+      <mapping pattern="0" type="PLAIN_TEXT" />
+      <mapping ext="msg" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

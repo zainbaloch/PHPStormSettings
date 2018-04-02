@@ -1,0 +1,5 @@
+<application>
+  <component name="TemplateDataLanguagePatterns">
+    <pattern value="*.hogan" lang="HTML" />
+  </component>
+</application>
