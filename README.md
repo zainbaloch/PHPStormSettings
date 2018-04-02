@@ -1,0 +1,2 @@
+# PHPStormSettings
+PHPStorm Settings
