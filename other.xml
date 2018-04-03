@@ -1,5 +1,0 @@
-<application>
-  <component name="NodeJsLocalInterpreters">
-    <local-interpreter path="$USER_HOME$/.nvm/v0.10.25/bin/node" />
-  </component>
-</application>
